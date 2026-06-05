@@ -1,0 +1,13 @@
+streamlit==1.32.0
+python-dotenv==1.0.1
+
+langchain==0.2.1
+langchain-core==0.2.3
+langchain-community==0.2.1
+langchain-groq==0.1.6
+
+langchain-text-splitters
+langchain-huggingface
+huggingface-hub
+PyPDF2
+
